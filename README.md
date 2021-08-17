@@ -27,7 +27,7 @@
 
 ## TL;DR
 
-Original template site credit [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Basic frontend template credited to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
