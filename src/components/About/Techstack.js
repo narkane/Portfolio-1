@@ -7,8 +7,8 @@ import {
   DiNodejs,
   DiMongodb,
   DiPython,
-  DiGit,
 } from "react-icons/di";
+import { FaVuejs } from "react-icons/fa";
 import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
 
 function Techstack() {
@@ -39,7 +39,7 @@ function Techstack() {
         <SiTensorflow />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <FaVuejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />

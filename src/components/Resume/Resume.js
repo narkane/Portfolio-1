@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Soumyajit-Behera.pdf";
+import pdf from "../../Assets/Thummel.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
@@ -38,7 +38,7 @@ function Resume() {
             &nbsp;Download CV
           </Button>
         </Row>
-        <Row className="resume">
+        <Row className="resume disable">
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent

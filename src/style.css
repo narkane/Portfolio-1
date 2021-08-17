@@ -735,3 +735,8 @@ html {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.disable {
+  opacity: 0.2;
+  pointer-events: none;
+}
